@@ -4,6 +4,6 @@
 
 # User Guide
 
-- [Devices](./devices.md)
+- [Devices](devices.md)
   - [Hub](./hub.md)
 - [Configurator](./configurator.md)
